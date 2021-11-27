@@ -1,6 +1,6 @@
 ### Welcome to my world 👋
-
-<p align="center"><a href="https://ritakushwaha.github.io/rita12.github.io"><img width="80%" src="./git-intro.mp4" /></a></p>
+![git-intro](https://user-images.githubusercontent.com/37330761/143720660-a93bb555-b57a-4e8f-b773-fa8ae6a84344.gif)
+<p align="center"><a href="https://ritakushwaha.github.io/rita12.github.io">Know me here</a></p>
 
 <br />
 
