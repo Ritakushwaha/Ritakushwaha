@@ -1,6 +1,7 @@
-### Welcome to my world 👋
-![git-intro](https://user-images.githubusercontent.com/37330761/143720660-a93bb555-b57a-4e8f-b773-fa8ae6a84344.gif)
-<p align="center"><a href="https://ritakushwaha.github.io/rita12.github.io">Know me here</a></p>
+### Welcome to my <a href="https://ritakushwaha.github.io/rita12.github.io">world</a> 👋
+<br />
+
+![intro_git](https://user-images.githubusercontent.com/37330761/143721328-6c2d92aa-2882-4f6c-ac73-cdc24c04bf6e.gif)
 
 <br />
 
