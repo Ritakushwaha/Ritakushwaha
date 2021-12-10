@@ -32,5 +32,4 @@
 [<img align="left" alt="Rita Kushwaha" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ritakushwaha.github.io/rita12.github.io)
 [<img align="left" alt="Rita Kushwaha | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Ritakushwaha"/>](https://www.hackerrank.com/ritakushwaha7311)
 [<img align="left" alt="Rita Kushwaha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/seno.rita12)
-[<img align="left" alt="Rita Kushwaha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/seno.rita12)
 [<img align="left" alt="Rita Kushwaha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Ritakushwaha12)
