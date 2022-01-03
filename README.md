@@ -20,7 +20,13 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linux.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pycharm.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/tableau.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/anaconda.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apachekafka.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apacheflink.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apacheairflow.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apachespark.svg"></code>
+
 
 | <a href="https://github.com/Ritakushwaha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ritakushwaha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rita's github stats" /></a> | <a href="https://github.com/Ritakushwaha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritakushwaha&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
