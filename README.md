@@ -30,7 +30,6 @@
 | <a href="https://github.com/Ritakushwaha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ritakushwaha&show_icons=true&hide_border=true" alt="Rita's github stats" /></a> | <a href="https://github.com/Ritakushwaha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritakushwaha&layout=compact&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
-
 **Connect with me:**
 
 [<img align="left" alt="Rita Kushwaha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/rita-kushwaha-827632148)
