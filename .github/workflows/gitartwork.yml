@@ -15,5 +15,5 @@
             # Use this username's contribution graph  
             user_name: Ritakushwaha
             # Text on contribution graph 
-            text: RITA
+            text: BELIEVE
        - uses: jasineri/simple-push-action@v1
