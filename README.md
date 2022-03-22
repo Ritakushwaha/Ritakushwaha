@@ -6,6 +6,10 @@
 
 <br />
 
+![gitartwork](gitartwork.svg)
+
+<br />
+
 ```mermaid
 flowchart TD
   A[Signing off for today] --> B{Have You acheived today's goal?};
