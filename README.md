@@ -55,3 +55,10 @@ flowchart TD
 [<img align="left" alt="Rita Kushwaha | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Ritakushwaha"/>](https://www.hackerrank.com/ritakushwaha7311)
 [<img align="left" alt="Rita Kushwaha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/seno.rita12)
 [<img align="left" alt="Rita Kushwaha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Ritakushwaha12)
+
+<br />
+<br />
+
+
+**Support me:**
+<p><a href="https://www.buymeacoffee.com/Ritakushwaha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="150" alt="Ritakushwaha" /></a></p><br><br>
