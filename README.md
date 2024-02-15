@@ -6,21 +6,6 @@
 
 <br />
 
-![gitartwork](gitartwork.svg)
-
-<br />
-
-```mermaid
-flowchart TD
-  A[Signing off for today] --> B{Have You acheived today's goal?};
-  B -- Yes --> C[Before going to bed, plan for tomorrow.]
-  B -- No --> D[Hustle for half and hour more.]
-  C ----> E[Now chill!!]
-  D ----> E[Now chill!!]
-```
-
-<br />
-
 **About me**
 
 - 💼 Data Engineer @ [Velotio](https://www.velotio.com/)
