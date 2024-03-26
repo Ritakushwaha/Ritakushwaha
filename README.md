@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ritakushwaha" alt="Ritakushwaha" /></p>
 <br />
 
-![intro_git](https://user-images.githubusercontent.com/37330761/143721328-6c2d92aa-2882-4f6c-ac73-cdc24c04bf6e.gif)
+<!--![intro_git](https://user-images.githubusercontent.com/37330761/143721328-6c2d92aa-2882-4f6c-ac73-cdc24c04bf6e.gif)
 
-<br />
+<br />-->
 
 **About me**
 
@@ -13,7 +13,7 @@
 - ⚡ I love painting. My Art Page - [enliven_arts](https://www.instagram.com/enliven_arts/)
 - 💬 Ask me about anything [here](https://github.com/Ritakushwaha/Ritakushwaha/discussions)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritakushwaha" alt="Ritakushwaha" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritakushwaha" alt="Ritakushwaha" /></a> </p>-->
 
 **Languages and Tools:**  
 
