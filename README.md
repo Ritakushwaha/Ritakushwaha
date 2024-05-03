@@ -8,7 +8,7 @@
 
 **About me**
 
-- 💼 Data Engineer @ [Velotio](https://www.velotio.com/)
+- 💼 Senior Data Engineer @ [Velotio](https://www.velotio.com/)
 - ❤️ I love coding in **Python**
 - ⚡ I love painting. My Art Page - [enliven_arts](https://www.instagram.com/enliven_arts/)
 - 💬 Ask me about anything [here](https://github.com/Ritakushwaha/Ritakushwaha/discussions)
