@@ -10,7 +10,7 @@
 
 - 💼 Senior Data Engineer @ [Velotio](https://www.velotio.com/)
 - ❤️ I love coding in **Python**
-- ⚡ I love painting. My Art Page - [enliven_arts](https://www.instagram.com/enliven_arts/)
+<!-- - ⚡ I love painting. My Art Page - [enliven_arts](https://www.instagram.com/enliven_arts/) -->
 - 💬 Ask me about anything [here](https://github.com/Ritakushwaha/Ritakushwaha/discussions)
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritakushwaha" alt="Ritakushwaha" /></a> </p>-->
